@@ -1,0 +1,271 @@
+<mjml>
+    <mj-head>
+        <mj-attributes>
+            <mj-all font-family="Helvetica Neue,Helvetica,Arial,sans-serif" />
+            <mj-body background-color="#1e1c22" />
+            <mj-text color="#ffffff" />
+            <mj-section background-color="#000000" />
+            <mj-class name="purple" background-color="#762fbe" />
+        </mj-attributes>
+    </mj-head>
+    <mj-body>
+        <!--HEADER-->
+        <mj-section>
+            <mj-column>
+                <mj-image src="img/hero.jpeg" alt="" />
+                <mj-text>
+                    <p>December 2022</p>
+                </mj-text>
+                <mj-divider border-color="#ffffff" border-width="1px" padding-bottom="0"/>
+            </mj-column>
+        </mj-section>
+
+        <!--CONTENT-->
+        <mj-section>
+            <mj-column>
+                <!--NBA Top Shot-->
+                <mj-text padding-top="0">
+                    <h1 style="font-size: 50px;">Happy Hoopsmas <img src="img/basketball.png" alt="" width="60px" style="vertical-align: middle;"></h1>
+                    <h2 style="margin-bottom: 0px">Celebrate the holidays on NBA Top Shot</h2>
+                </mj-text>
+                <mj-image src="img/top-shot-holiday.png" alt="" />
+                <mj-text font-size="16px" line-height="22px">
+             
+                        <p>NBA Top Shot is celebrating the <strong>12 Days of Hoopsmas</strong>, where you can win prizes and exchange gifts with fellow collectors around the world by gifting a Moment to the <a href="https://u26162445.ct.sendgrid.net/ls/click?upn=zQb-2FQskn-2Fgm00H-2BhE-2Bykt-2FcG8-2FxUCrTCLgPVy8npJnvgLmQwMNXlWJs5oTfHP1lM4vBDaJ6mbpi9xPncqjyhKQ-3D-3DgP6-_WO-2BwG46dtwW7qzM5RDMYlA-2BaYGVdPOR-2BhVdhikik0okn4WOQ5XnVJx4yELwcVJz2ZNG4xcDtboY-2B22v5ZPOQqHr6KAjE35CrTSaQ0ispZncow0BfTsbzwFF6NgCmzusAZ-2FsSUYpGitzoQCLFiLLyQ7MZYCbxDXXLKV5AHmDfx13Ks-2Fq-2FyjmRaOwPM2c9LOL-2BZ7ojWriv8ugB9RWIEg7dVPb0ZaGRDK2uN-2BOUn-2B6WCF6o7Z47HkDTK-2Fiaas7HFkqLeBwz00yNIYgMPsDM1OJFI7uH2VHJtDxJvqHZnMzsMeHSWXKg2HCB36fVr84Hm8VxQVJvf9g2ssNCvleLdFAeI-2BAsI0-2FNfTKmxFKNwHgsVxHMKyJkr273yycT5pJCkmQRwTmk6YVocRp-2F-2B4Tjhqkn-2FTo9njUwbA26TwNoqO2TQEtcfdAxyzAMMe7nduuIj-2FoxveLgt2j98zalkE3h67av0sEVpa2-2F3V6zJmfyojNF6-2FrY-2B2so0RGtpuQYRDogEclCnEbBM7G1qK5-2B-2FJ2GETUtZUIoqia-2Bq3O6uYixuvXwXkauymxbfHYEdh3GW9SJU3ra1hFieqYXGismJ5u-2F3ArQ9KbVRttLakDE2kTLIHx9uAU9VNWHrVhnaNAm4p5LPtARNLvzrnSzi8gOCxV-2FtGVqr0GZ887kHtQ8lCQNiNk5zsBh-2FxwHHTQR39xN3dswl-2FNY6gKKkX55lOLrLa31zAmBOQ-3D-3D" target="_blank" style="color: #9900f0;">TopShotSecretSanta</a> account! </p>
+
+                        <p>For every Moment you send TopShotSecretSanta, you will automatically receive one back as a gift from another collector on December 23. Plus, gifting a Moment makes you eligible to win an awesome gift from the $15,000 prize pool!</p>
+
+                        <p>Over 75,000 Moments have already been gifted from the community, so don't miss out on your chance to get involved! <strong>Top Shot Secret Santa ends TONIGHT, 12/22 at 11:59pm ET</strong>, so get your Moments in!</p>
+  
+                    
+                </mj-text>
+                <mj-button mj-class="purple" align="left" border-radius="5px" href="https://u26162445.ct.sendgrid.net/ls/click?upn=zQb-2FQskn-2Fgm00H-2BhE-2Bykt4XHBrWxUXAxPnji6Sa-2FR8I3R2lmKcDh6t6v4h0mwhywzuYqzJwItYioPBuEu42hJg-3D-3DcnQg_WO-2BwG46dtwW7qzM5RDMYlA-2BaYGVdPOR-2BhVdhikik0okn4WOQ5XnVJx4yELwcVJz2ZNG4xcDtboY-2B22v5ZPOQqHr6KAjE35CrTSaQ0ispZncow0BfTsbzwFF6NgCmzusAZ-2FsSUYpGitzoQCLFiLLyQ7MZYCbxDXXLKV5AHmDfx13Ks-2Fq-2FyjmRaOwPM2c9LOL-2BZ7ojWriv8ugB9RWIEg7dVPb0ZaGRDK2uN-2BOUn-2B6WCF6o7Z47HkDTK-2Fiaas7HFkqLeBwz00yNIYgMPsDM1OJFI7uH2VHJtDxJvqHZnMzsMeHSWXKg2HCB36fVr84Hm8VxQVJvf9g2ssNCvleLdFAeI-2BAsI0-2FNfTKmxFKNwHgsVxHMKyJkr273yycT5pJCkmQRwTmk6YVocRp-2F-2B4Tjhqkn-2FTo9njUwbA26TwNoqO2TQEtcfdAxyzAMMe7nduuIj-2FoxveLgt2j98zalkE3h67av0sEVpa2-2F3V6zJmfyojNF6-2FrY-2B2so0RGtpuQYRDogEclCnEbBM7G1qK5-2B-2FJ2GETUtZUIoqia-2Bq3O6uYixuvXwXkauymxbfHYEdh3GW9SJU3raTxY5zbcbsX1hJmcx1oIgaPrSULrsJWy3T510QCpsJUCzZDnYvBF7CordyOHIDmavLuaNzm5xbv-2BjB8qB7mOgRsemeGRfgarbZ1hKilUq6kfTp7rPIgDGjVB0Ljc3MIB5VMh3b10YuJa3-2F3yEeRQypA-3D-3D" target="_blank">
+                    Celebrate the Holiday of Hoops
+                </mj-button>
+                <mj-divider border-color="#ffffff" border-width="1px" padding-bottom="0"/>
+
+                <!--Fraggle Rock-->
+                <mj-text padding-top="0">
+                    <h1 style="font-size: 50px;">Holiday updates <img src="img/snowman.png" alt="" width="60px" style="vertical-align: middle;"></h1>
+                    <h2 style="font-size: 25px;">Fraggle Rock is here!</h2>
+                </mj-text>
+                <mj-table padding-top="0" width="100%">
+                    <tr>
+                        <td style="width:30%;">
+                            <img src="img/fraggle-rock-pack.jpeg" width="100%" />
+                        </td>
+                        <td style="color: #ffffff; width:70%; padding-left: 15px; vertical-align: top; font-size: 16px;">
+                            <p>NOW LIVE! The first Tibles Fraggle Rock set, Down at Fraggle Rock, features the main characters and the different environments of Jim Henson’s Fraggle Rock. Head to the shop now to buy your packs!</p>
+                            <a href="http://tibles.com/fraggle-rock" target="_blank" style="background-color: #762fbe; color: #ffffff; padding: 8px 30px; border-radius: 5px; font-size: 13px; text-decoration: none;">Take a trip to Fraggle Rock</a>
+                        </td>
+                    </tr>
+                </mj-table>
+                <mj-divider border-color="#ffffff" border-width="1px" padding-bottom="0"/>
+
+                <!--Gameisodes-->
+                <mj-text padding-top="0">
+                    <h2 style="font-size: 25px;">Early access to Gamisodes’s newest collection</h2>
+                </mj-text>
+                <mj-table padding-top="0">
+                    <tr>
+                        <td style="color: #ffffff; width:70%; padding-right: 15px; vertical-align: top; font-size: 16px;">
+                            <p>All aboard the Brain Train! This Series 1 release includes 1000 one-of-a-kind designs featuring Brain and costumes from the 1980s series. Designed by celebrity artist Agnes Garbowska. Enter the Dapper 24-hr presale at 1pm PST today with code DAPPER24. </p>
+                            <a href="https://u26162445.ct.sendgrid.net/ls/click?upn=zQb-2FQskn-2Fgm00H-2BhE-2Bykt0SI83l4qnpad7B0JDh3O1o-3DbZJu_WO-2BwG46dtwW7qzM5RDMYlA-2BaYGVdPOR-2BhVdhikik0okn4WOQ5XnVJx4yELwcVJz2ZNG4xcDtboY-2B22v5ZPOQqHr6KAjE35CrTSaQ0ispZncow0BfTsbzwFF6NgCmzusAZ-2FsSUYpGitzoQCLFiLLyQ7MZYCbxDXXLKV5AHmDfx13Ks-2Fq-2FyjmRaOwPM2c9LOL-2BZ7ojWriv8ugB9RWIEg7dVPb0ZaGRDK2uN-2BOUn-2B6WCF6o7Z47HkDTK-2Fiaas7HFkqLeBwz00yNIYgMPsDM1OJFI7uH2VHJtDxJvqHZnMzsMeHSWXKg2HCB36fVr84Hm8VxQVJvf9g2ssNCvleLdFAeI-2BAsI0-2FNfTKmxFKNwHgsVxHMKyJkr273yycT5pJCkmQRwTmk6YVocRp-2F-2B4Tjhqkn-2FTo9njUwbA26TwNoqO2TQEtcfdAxyzAMMe7nduuIj-2FoxveLgt2j98zalkE3h67av0sEVpa2-2F3V6zJmfyojNF6-2FrY-2B2so0RGtpuQYRDogEclCnEbBM7G1qK5-2B-2FJ2GETUtZUIoqia-2Bq3O6uYixuvXwXkauymxbfHYEdh3GW9SJU3rahUfe6OUqzGfkeXacV-2BCWzEsEFaWXDTO4lVhQmsxP2ddMgPAmVRgKjC57TN5CRvKwHLrJ1ZlumTkKdiuaftkpJyOotckGLpuRcJ0kR5Y-2BQtN1Ud8NbdmyjtYdpNgsMAbaEr0vCCPVa3-2BYGgD4IGqVWw-3D-3D" target="_blank" style="background-color: #762fbe; color: #ffffff; padding: 8px 30px; border-radius: 5px; font-size: 13px; text-decoration: none;">Get your ticket</a>
+                        </td>
+                        <td style="width:30%;">
+                            <img src="img/gamisodes.jpeg" width="100%" />
+                        </td>
+                        
+                    </tr>
+                </mj-table>
+                <mj-divider border-color="#ffffff" border-width="1px" padding-bottom="0"/>
+
+                <!--Dimension X-->
+                <mj-text padding-top="0">
+                    <h2 style="font-size: 25px;">Ho-Ho-Holiday event for Dimension X</h2>
+                </mj-text>
+                <mj-table padding-top="0">
+                    <tr>
+                    
+                        <td style="width:30%;">
+                            <img src="img/dimensionx.gif" width="100%"/>
+                        </td>
+                        <td style="color: #ffffff; width:70%; padding-left: 15px; vertical-align: top; font-size: 16px;">
+                            <p>It's not too late to jump into the Dimension X Winter Quest that features custom 1:1 NFTs to the top 3 players as well as token rewards and a specialty sidekick that can be unlocked. And don't forget that up until 12/29, any player that has earned 1k Thul in game will have the ability to mint a custom Winter inspired NFT hero! </p>
+                            <a href="https://u26162445.ct.sendgrid.net/ls/click?upn=zQb-2FQskn-2Fgm00H-2BhE-2Bykt1f6g1V-2B3FiTJlmVErq2McN7k7GWVl8H-2FLwpsN0av47hxwsI_WO-2BwG46dtwW7qzM5RDMYlA-2BaYGVdPOR-2BhVdhikik0okn4WOQ5XnVJx4yELwcVJz2ZNG4xcDtboY-2B22v5ZPOQqHr6KAjE35CrTSaQ0ispZncow0BfTsbzwFF6NgCmzusAZ-2FsSUYpGitzoQCLFiLLyQ7MZYCbxDXXLKV5AHmDfx13Ks-2Fq-2FyjmRaOwPM2c9LOL-2BZ7ojWriv8ugB9RWIEg7dVPb0ZaGRDK2uN-2BOUn-2B6WCF6o7Z47HkDTK-2Fiaas7HFkqLeBwz00yNIYgMPsDM1OJFI7uH2VHJtDxJvqHZnMzsMeHSWXKg2HCB36fVr84Hm8VxQVJvf9g2ssNCvleLdFAeI-2BAsI0-2FNfTKmxFKNwHgsVxHMKyJkr273yycT5pJCkmQRwTmk6YVocRp-2F-2B4Tjhqkn-2FTo9njUwbA26TwNoqO2TQEtcfdAxyzAMMe7nduuIj-2FoxveLgt2j98zalkE3h67av0sEVpa2-2F3V6zJmfyojNF6-2FrY-2B2so0RGtpuQYRDogEclCnEbBM7G1qK5-2B-2FJ2GETUtZUIoqia-2Bq3O6uYixuvXwXkauymxbfHYEdh3GW9SJU3ra5hGHphdG4PTdtGSAANxOgOH06Mv7xuLWLsik7J06Pk7jWhFiTpwjDL5RjKZKrbspCjjEEt3W3Ki8hPhi6LB78l5d169j8JsNoT4HLWXkLfKAL3-2BhFEkkzdwBYXSCYRCoR8EEwFyrKCBqpCj8hUiwhA-3D-3D" target="_blank" style="background-color: #762fbe; color: #ffffff; padding: 8px 30px; border-radius: 5px; font-size: 13px; text-decoration: none;">Enter Dimension X over the holidays</a>
+                        </td>
+                    </tr>
+                </mj-table>
+                <mj-divider border-color="#ffffff" border-width="1px" padding-bottom="0"/>
+
+                <!--TuneGO-->
+                <mj-text padding-top="0">
+                    <h2 style="font-size: 25px;">Bring the holiday spirit with TuneGO</h2>
+                </mj-text>
+                <mj-table padding-top="0">
+                    <tr>
+                        <td style="color: #ffffff; width:70%; padding-right: 15px; vertical-align: top; font-size: 16px;">
+                            <p>For the first time ever, you can own exclusive Holiday digital collectibles from the world’s most iconic music library. Unlock Rare and Legendary collectibles, and earn a 15 FLOW reward (see website for details). Plus, claim one of the free limited edition Holiday TuneKitties <a href="https://u26162445.ct.sendgrid.net/ls/click?upn=zQb-2FQskn-2Fgm00H-2BhE-2Bykt3mwfppy2wVWnzN2gv2wjJlj7APaR2pi03dc-2B7aoFXi6Hzuk_WO-2BwG46dtwW7qzM5RDMYlA-2BaYGVdPOR-2BhVdhikik0okn4WOQ5XnVJx4yELwcVJz2ZNG4xcDtboY-2B22v5ZPOQqHr6KAjE35CrTSaQ0ispZncow0BfTsbzwFF6NgCmzusAZ-2FsSUYpGitzoQCLFiLLyQ7MZYCbxDXXLKV5AHmDfx13Ks-2Fq-2FyjmRaOwPM2c9LOL-2BZ7ojWriv8ugB9RWIEg7dVPb0ZaGRDK2uN-2BOUn-2B6WCF6o7Z47HkDTK-2Fiaas7HFkqLeBwz00yNIYgMPsDM1OJFI7uH2VHJtDxJvqHZnMzsMeHSWXKg2HCB36fVr84Hm8VxQVJvf9g2ssNCvleLdFAeI-2BAsI0-2FNfTKmxFKNwHgsVxHMKyJkr273yycT5pJCkmQRwTmk6YVocRp-2F-2B4Tjhqkn-2FTo9njUwbA26TwNoqO2TQEtcfdAxyzAMMe7nduuIj-2FoxveLgt2j98zalkE3h67av0sEVpa2-2F3V6zJmfyojNF6-2FrY-2B2so0RGtpuQYRDogEclCnEbBM7G1qK5-2B-2FJ2GETUtZUIoqia-2Bq3O6uYixuvXwXkauymxbfHYEdh3GW9SJU3raki4ulUJbBHjbwu9QjTLJCoklS4VTJF0UpbQvoRPchaXTKoHIo9mmzbSxNJU-2BQ-2BvUvdZSB2NzrEDttdJZxLyHo8v09TQUz70WiNx3MFrVH-2BSJJXQEdeTarrhJFOyVbxmHkIUtcz7Mf30i01-2Bt8b4-2Fxg-3D-3D" style="color: #9900f0;">right over here!</a></p>
+                            <a href="https://u26162445.ct.sendgrid.net/ls/click?upn=zQb-2FQskn-2Fgm00H-2BhE-2ByktxT80GzofVzsh3DZOgUxkJLL1oouHoidKHvR9MPI-2BhimOj-a_WO-2BwG46dtwW7qzM5RDMYlA-2BaYGVdPOR-2BhVdhikik0okn4WOQ5XnVJx4yELwcVJz2ZNG4xcDtboY-2B22v5ZPOQqHr6KAjE35CrTSaQ0ispZncow0BfTsbzwFF6NgCmzusAZ-2FsSUYpGitzoQCLFiLLyQ7MZYCbxDXXLKV5AHmDfx13Ks-2Fq-2FyjmRaOwPM2c9LOL-2BZ7ojWriv8ugB9RWIEg7dVPb0ZaGRDK2uN-2BOUn-2B6WCF6o7Z47HkDTK-2Fiaas7HFkqLeBwz00yNIYgMPsDM1OJFI7uH2VHJtDxJvqHZnMzsMeHSWXKg2HCB36fVr84Hm8VxQVJvf9g2ssNCvleLdFAeI-2BAsI0-2FNfTKmxFKNwHgsVxHMKyJkr273yycT5pJCkmQRwTmk6YVocRp-2F-2B4Tjhqkn-2FTo9njUwbA26TwNoqO2TQEtcfdAxyzAMMe7nduuIj-2FoxveLgt2j98zalkE3h67av0sEVpa2-2F3V6zJmfyojNF6-2FrY-2B2so0RGtpuQYRDogEclCnEbBM7G1qK5-2B-2FJ2GETUtZUIoqia-2Bq3O6uYixuvXwXkauymxbfHYEdh3GW9SJU3raT9YpN8p3TPc28gkc0qSGzL3ub2-2BjsEsYA6VFbe8turllb2H7l-2Fq-2Ba84VZaz-2FKQscXTcIT5ZFPvNxVAbcJtBSW3Z2XQNjijL4zb0XcI23Ut6mnfgffmr1fcHMM7I80hgGNBwBGIAfJnTE8oGCVzTXaA-3D-3D" target="_blank" style="background-color: #762fbe; color: #ffffff; padding: 8px 30px; border-radius: 5px; font-size: 13px; text-decoration: none;">Get your holiday tunes</a>
+                        </td>
+                        <td style="width:30%;">
+                            <img src="img/tune-go-holiday.gif" width="100%" />
+                        </td>
+                        
+                    </tr>
+                </mj-table>
+                <mj-divider border-color="#ffffff" border-width="1px" padding-bottom="0"/>
+
+                <!--Flowverse-->
+                <mj-text padding-top="0">
+                    <h2 style="font-size: 25px;">Don't miss the Flowverse giveaway</h2>
+                </mj-text>
+                <mj-table padding-top="0">
+                    <tr>
+                    
+                        <td style="width:30%;">
+                            <img src="img/flowverse-giveaway.jpeg" width="100%"/>
+                        </td>
+                        <td style="color: #ffffff; width:70%; padding-left: 15px; vertical-align: top; font-size: 16px;">
+                            <p>Get notified about Flowverse's Christmas giveaway of a unique FLOAT NFT, and join 37,000+ subscribers to the Flowverse email newsletter. There are also weekly updates on all things Flow blockchain, NFT drops, news, and job opportunities. </p>
+                            <a href="https://u26162445.ct.sendgrid.net/ls/click?upn=zQb-2FQskn-2Fgm00H-2BhE-2Bykt6t6SqQ7eBsZFjpcBqqx2iVtqRbXXCxHTF6OWWZ40Hb-2B4ftbjpXDYB91m9-2FAfRyRJA-3D-3Df1sR_WO-2BwG46dtwW7qzM5RDMYlA-2BaYGVdPOR-2BhVdhikik0okn4WOQ5XnVJx4yELwcVJz2ZNG4xcDtboY-2B22v5ZPOQqHr6KAjE35CrTSaQ0ispZncow0BfTsbzwFF6NgCmzusAZ-2FsSUYpGitzoQCLFiLLyQ7MZYCbxDXXLKV5AHmDfx13Ks-2Fq-2FyjmRaOwPM2c9LOL-2BZ7ojWriv8ugB9RWIEg7dVPb0ZaGRDK2uN-2BOUn-2B6WCF6o7Z47HkDTK-2Fiaas7HFkqLeBwz00yNIYgMPsDM1OJFI7uH2VHJtDxJvqHZnMzsMeHSWXKg2HCB36fVr84Hm8VxQVJvf9g2ssNCvleLdFAeI-2BAsI0-2FNfTKmxFKNwHgsVxHMKyJkr273yycT5pJCkmQRwTmk6YVocRp-2F-2B4Tjhqkn-2FTo9njUwbA26TwNoqO2TQEtcfdAxyzAMMe7nduuIj-2FoxveLgt2j98zalkE3h67av0sEVpa2-2F3V6zJmfyojNF6-2FrY-2B2so0RGtpuQYRDogEclCnEbBM7G1qK5-2B-2FJ2GETUtZUIoqia-2Bq3O6uYixuvXwXkauymxbfHYEdh3GW9SJU3raBsxtiFiLlqGP4MLjNwAIzkLW5KUeevYtN06J8pPsjcwKdk4GYH5XKQVD-2FPL1VQ5dBdcjsSudau0lu565becJEfgLgtQIc8MYMJkjAbSAHgTpBpYWoT0eU55ALxHExMxFwhIzkUL-2BKrhunp0mliF5Mw-3D-3D" target="_blank" style="background-color: #762fbe; color: #ffffff; padding: 8px 30px; border-radius: 5px; font-size: 13px; text-decoration: none;">Tap into the Flowverse</a>
+                        </td>
+                    </tr>
+                </mj-table>
+                <mj-divider border-color="#ffffff" border-width="1px" padding-bottom="0"/> 
+
+                <!--Flowvatar-->
+                <mj-text padding-top="0">
+                    <h2 style="font-size: 25px;">Flovatar celebrates 1-year anniversary</h2>
+                </mj-text>
+                <mj-table padding-top="0">
+                    <tr>
+                        <td style="color: #ffffff; width:70%; padding-right: 15px; vertical-align: top; font-size: 16px;">
+                            <p>Flovatar just celebrated their first anniversary since launch! For that special occasion they started revealing their Storyworld, and announced many things, among those: an updated app, an updated website, a new article, and even a new NFT series, the Psyche Likee!</p>
+                            <a href="https://u26162445.ct.sendgrid.net/ls/click?upn=zQb-2FQskn-2Fgm00H-2BhE-2Bykt2W1f62wDT33HxPxWpF-2F6qA-3DfTk8_WO-2BwG46dtwW7qzM5RDMYlA-2BaYGVdPOR-2BhVdhikik0okn4WOQ5XnVJx4yELwcVJz2ZNG4xcDtboY-2B22v5ZPOQqHr6KAjE35CrTSaQ0ispZncow0BfTsbzwFF6NgCmzusAZ-2FsSUYpGitzoQCLFiLLyQ7MZYCbxDXXLKV5AHmDfx13Ks-2Fq-2FyjmRaOwPM2c9LOL-2BZ7ojWriv8ugB9RWIEg7dVPb0ZaGRDK2uN-2BOUn-2B6WCF6o7Z47HkDTK-2Fiaas7HFkqLeBwz00yNIYgMPsDM1OJFI7uH2VHJtDxJvqHZnMzsMeHSWXKg2HCB36fVr84Hm8VxQVJvf9g2ssNCvleLdFAeI-2BAsI0-2FNfTKmxFKNwHgsVxHMKyJkr273yycT5pJCkmQRwTmk6YVocRp-2F-2B4Tjhqkn-2FTo9njUwbA26TwNoqO2TQEtcfdAxyzAMMe7nduuIj-2FoxveLgt2j98zalkE3h67av0sEVpa2-2F3V6zJmfyojNF6-2FrY-2B2so0RGtpuQYRDogEclCnEbBM7G1qK5-2B-2FJ2GETUtZUIoqia-2Bq3O6uYixuvXwXkauymxbfHYEdh3GW9SJU3rajgmgUb-2BaEwu0Nj3gcyI6buhHhruS5kwalO100oG3d8C4f-2B33Iynv5tYn-2B7DkYjlErE8B2taDgxgTUNiy-2BFgTndkwaTstGsezl9SKkepF-2FslYoUFURzdgLDwz3NPHjTkIzvha2BWRMrF-2FsDFG5zev1A-3D-3D" target="_blank" style="background-color: #762fbe; color: #ffffff; padding: 8px 30px; border-radius: 5px; font-size: 13px; text-decoration: none;">Build your perfect Flovatar</a>
+                        </td>
+                        <td style="width:30%;">
+                            <img src="img/flovatar-one-year.jpeg" width="100%"/>
+                        </td>
+                        
+                    </tr>
+                </mj-table>
+                <mj-divider border-color="#ffffff" border-width="1px" padding-bottom="0"/>
+
+                <!--Holiday Cup-->
+                <mj-text padding-top="0">
+                    <h2 style="font-size: 25px;">Compete in the Holiday Cup</h2>
+                </mj-text>
+                <mj-table padding-top="0">
+                    <tr>
+                    
+                        <td style="width:30%;">
+                            <img src="img/holiday-cup.png" width="100%"/>
+                        </td>
+                        <td style="color: #ffffff; width:70%; padding-left: 15px; vertical-align: top; font-size: 16px;">
+                            <p>This holiday season, come show your competitive spirit by taking your team to the top in the MFL Holiday Cup! Anyone can create a squad to enter the competition on Discord and be in to win rewards! Can you guide your players to the Holiday Cup title?</p>
+                            <a href="https://u26162445.ct.sendgrid.net/ls/click?upn=zQb-2FQskn-2Fgm00H-2BhE-2Bykt4u3q3qPJPSxNxWHShJA7LGSBXlAlPcykyW8XfbvGjpLcanM_WO-2BwG46dtwW7qzM5RDMYlA-2BaYGVdPOR-2BhVdhikik0okn4WOQ5XnVJx4yELwcVJz2ZNG4xcDtboY-2B22v5ZPOQqHr6KAjE35CrTSaQ0ispZncow0BfTsbzwFF6NgCmzusAZ-2FsSUYpGitzoQCLFiLLyQ7MZYCbxDXXLKV5AHmDfx13Ks-2Fq-2FyjmRaOwPM2c9LOL-2BZ7ojWriv8ugB9RWIEg7dVPb0ZaGRDK2uN-2BOUn-2B6WCF6o7Z47HkDTK-2Fiaas7HFkqLeBwz00yNIYgMPsDM1OJFI7uH2VHJtDxJvqHZnMzsMeHSWXKg2HCB36fVr84Hm8VxQVJvf9g2ssNCvleLdFAeI-2BAsI0-2FNfTKmxFKNwHgsVxHMKyJkr273yycT5pJCkmQRwTmk6YVocRp-2F-2B4Tjhqkn-2FTo9njUwbA26TwNoqO2TQEtcfdAxyzAMMe7nduuIj-2FoxveLgt2j98zalkE3h67av0sEVpa2-2F3V6zJmfyojNF6-2FrY-2B2so0RGtpuQYRDogEclCnEbBM7G1qK5-2B-2FJ2GETUtZUIoqia-2Bq3O6uYixuvXwXkauymxbfHYEdh3GW9SJU3raBQXwGRiKMUxU8RCpXu8wWwypPHa-2BAyEsFNvWPtgsLunb5AIEqtEHkk4CIQUlGNKSeKIaGNM8BuIVboXcRuuPmxzQTFCmT5T9yUL8T2QjmUhilpLL3s-2FIEUmcrFq3oXvlCTsBVj5GRqPRVnV4Jh9rxw-3D-3D" target="_blank" style="background-color: #762fbe; color: #ffffff; padding: 8px 30px; border-radius: 5px; font-size: 13px; text-decoration: none;">Take your squad all the way</a>
+                        </td>
+                    </tr>
+                </mj-table>
+                <mj-divider border-color="#ffffff" border-width="1px" padding-bottom="0"/>
+
+                <!--Flunks-->
+                <mj-text padding-top="0">
+                    <h2 style="font-size: 25px;">Flunks are graduating</h2>
+                </mj-text>
+                <mj-table padding-top="0">
+                    <tr>
+                        <td style="color: #ffffff; width:70%; padding-right: 15px; vertical-align: top; font-size: 16px;">
+                            <p>Are you ready for some brand new art in time for the holidays? Flunks Tier A Graduation is here with nearly 7,000 Flunks ready to graduate into their brand new art style. If you don't have a Flunk yet, hit the marketplace!</p>
+                            <a href="https://u26162445.ct.sendgrid.net/ls/click?upn=zQb-2FQskn-2Fgm00H-2BhE-2ByktxLELIDfhq0hOP5cvu-2BgthKJn1IieA0o-2F4RDCgziI6OOPhM-2FphdOlGb2nPBkz0MCrlCqxPszi0gSn-2FIjmBtrpv9MH-2BlBvd87Fx0waMdKVM4knuqHby11hmUtiGAabnIM9Q-3D-3DNGos_WO-2BwG46dtwW7qzM5RDMYlA-2BaYGVdPOR-2BhVdhikik0okn4WOQ5XnVJx4yELwcVJz2ZNG4xcDtboY-2B22v5ZPOQqHr6KAjE35CrTSaQ0ispZncow0BfTsbzwFF6NgCmzusAZ-2FsSUYpGitzoQCLFiLLyQ7MZYCbxDXXLKV5AHmDfx13Ks-2Fq-2FyjmRaOwPM2c9LOL-2BZ7ojWriv8ugB9RWIEg7dVPb0ZaGRDK2uN-2BOUn-2B6WCF6o7Z47HkDTK-2Fiaas7HFkqLeBwz00yNIYgMPsDM1OJFI7uH2VHJtDxJvqHZnMzsMeHSWXKg2HCB36fVr84Hm8VxQVJvf9g2ssNCvleLdFAeI-2BAsI0-2FNfTKmxFKNwHgsVxHMKyJkr273yycT5pJCkmQRwTmk6YVocRp-2F-2B4Tjhqkn-2FTo9njUwbA26TwNoqO2TQEtcfdAxyzAMMe7nduuIj-2FoxveLgt2j98zalkE3h67av0sEVpa2-2F3V6zJmfyojNF6-2FrY-2B2so0RGtpuQYRDogEclCnEbBM7G1qK5-2B-2FJ2GETUtZUIoqia-2Bq3O6uYixuvXwXkauymxbfHYEdh3GW9SJU3ra2ocUeFdhWsUWYpFsR9zKXWzAfuQJFl23703wtL7B-2BJ-2FmKZeAePW6P6yolytRKQnQ-2B7BKWSct67XQ6m-2FxE-2BiyMo5c1kElEs8E-2BQmUizASG02sLKsnGG5LZ1KB9FUApxHxJ1OZmrB4MRTJ2JsbsFWpfA-3D-3D" target="_blank" style="background-color: #762fbe; color: #ffffff; padding: 8px 30px; border-radius: 5px; font-size: 13px; text-decoration: none;">Find the Flunk for you</a>
+                        </td>
+                        <td style="width:30%;">
+                            <img src="img/flunks-are-graduating.png" width="100%"/>
+                        </td>
+                        
+                    </tr>
+                </mj-table>
+                <mj-divider border-color="#ffffff" border-width="1px" padding-bottom="0"/>
+
+                <!--CryptoPiggos-->
+                <mj-text padding-top="0">
+                    <h2 style="font-size: 25px;">Enter the CryptoPiggos giveaway</h2>
+                </mj-text>
+                <mj-table padding-top="0">
+                    <tr>
+                    
+                        <td style="width:30%;">
+                            <img src="img/cryptopiggos-giveaway.png" width="100%"/>
+                        </td>
+                        <td style="color: #ffffff; width:70%; padding-left: 15px; vertical-align: top; font-size: 16px;">
+                            <p>With every purchase of a Piggos Evolution NFT between 12/22-1/5, you will be entered into a prize draw to win this exclusive Piggos Origins MYTHIC Santa Piggo!</p>
+                            <a href="https://u26162445.ct.sendgrid.net/ls/click?upn=PgiEc4vaASOd2fX9ZqjwVpYrE0kFmo9DbLxBv5FYdSc-3Dcqb-_WO-2BwG46dtwW7qzM5RDMYlA-2BaYGVdPOR-2BhVdhikik0okn4WOQ5XnVJx4yELwcVJz2ZNG4xcDtboY-2B22v5ZPOQqHr6KAjE35CrTSaQ0ispZncow0BfTsbzwFF6NgCmzusAZ-2FsSUYpGitzoQCLFiLLyQ7MZYCbxDXXLKV5AHmDfx13Ks-2Fq-2FyjmRaOwPM2c9LOL-2BZ7ojWriv8ugB9RWIEg7dVPb0ZaGRDK2uN-2BOUn-2B6WCF6o7Z47HkDTK-2Fiaas7HFkqLeBwz00yNIYgMPsDM1OJFI7uH2VHJtDxJvqHZnMzsMeHSWXKg2HCB36fVr84Hm8VxQVJvf9g2ssNCvleLdFAeI-2BAsI0-2FNfTKmxFKNwHgsVxHMKyJkr273yycT5pJCkmQRwTmk6YVocRp-2F-2B4Tjhqkn-2FTo9njUwbA26TwNoqO2TQEtcfdAxyzAMMe7nduuIj-2FoxveLgt2j98zalkE3h67av0sEVpa2-2F3V6zJmfyojNF6-2FrY-2B2so0RGtpuQYRDogEclCnEbBM7G1qK5-2B-2FJ2GETUtZUIoqia-2Bq3O6uYixuvXwXkauymxbfHYEdh3GW9SJU3rac-2F6NLkRAyzfugt88uoNO0QK-2Fs3Pay0EXY0s2Ea3LyDZhpAIRfWQQecxr4gARcMA1QnWIQF9btF20uo5EhCYbT3N2fHkyKCwk3fB1H1YABub2xguYRXVDFiz7MknHYmXlYvQY50G9ol6StAjs351vjA-3D-3D" target="_blank" style="background-color: #762fbe; color: #ffffff; padding: 8px 30px; border-radius: 5px; font-size: 13px; text-decoration: none;">Take your shot at Santa Piggo</a>
+                        </td>
+                    </tr>
+                </mj-table>
+                <mj-divider border-color="#ffffff" border-width="1px" padding-bottom="0"/>          
+
+                <!--Fantasy Football Contest-->
+                <mj-text padding-top="0">
+                    <h2 style="font-size: 25px;">FREE fantasy football contest</h2>
+                </mj-text>
+                <mj-table padding-top="0">
+                    <tr>
+                        <td style="color: #ffffff; width:70%; padding-right: 15px; vertical-align: top; font-size: 16px;">
+                            <p>Own the Moment and the Jolly Jokers are the newest owners in the world’s first virtual sports league competing against the likes of Magic Johnson, Jerry Rice, and many others. Join the launch of open beta and compete for free in a virtual fantasy football contest with $50,000 worth of SimWin prizes.</p>
+                            <a href="https://u26162445.ct.sendgrid.net/ls/click?upn=zQb-2FQskn-2Fgm00H-2BhE-2Byktzi8U7axD1dw4gia94DAtAB5-2B3nBQVJPm6OeIhVZ6q00Wm-2FNHVgqJZrMfLDwZsvkrbr3SPmhWK2ia19w83zypDQ-3D4IjE_WO-2BwG46dtwW7qzM5RDMYlA-2BaYGVdPOR-2BhVdhikik0okn4WOQ5XnVJx4yELwcVJz2ZNG4xcDtboY-2B22v5ZPOQqHr6KAjE35CrTSaQ0ispZncow0BfTsbzwFF6NgCmzusAZ-2FsSUYpGitzoQCLFiLLyQ7MZYCbxDXXLKV5AHmDfx13Ks-2Fq-2FyjmRaOwPM2c9LOL-2BZ7ojWriv8ugB9RWIEg7dVPb0ZaGRDK2uN-2BOUn-2B6WCF6o7Z47HkDTK-2Fiaas7HFkqLeBwz00yNIYgMPsDM1OJFI7uH2VHJtDxJvqHZnMzsMeHSWXKg2HCB36fVr84Hm8VxQVJvf9g2ssNCvleLdFAeI-2BAsI0-2FNfTKmxFKNwHgsVxHMKyJkr273yycT5pJCkmQRwTmk6YVocRp-2F-2B4Tjhqkn-2FTo9njUwbA26TwNoqO2TQEtcfdAxyzAMMe7nduuIj-2FoxveLgt2j98zalkE3h67av0sEVpa2-2F3V6zJmfyojNF6-2FrY-2B2so0RGtpuQYRDogEclCnEbBM7G1qK5-2B-2FJ2GETUtZUIoqia-2Bq3O6uYixuvXwXkauymxbfHYEdh3GW9SJU3rayeIu5vnqpnqx8lgnqvxetIDX814ELdFDfT-2FDYKU9t8kKUnyEoJkakwG4CDVZ2lAopVyeddTn76K-2B7-2Bptz-2B-2B5W-2B7lsJBKajA-2BzxGp3Cgty73-2BV25WjGaRfSOwMAawTI8rxC0CtNSCumADCRveme9t3A-3D-3D" target="_blank" style="background-color: #762fbe; color: #ffffff; padding: 8px 30px; border-radius: 5px; font-size: 13px; text-decoration: none;">Enter the contest</a>
+                        </td>
+                        <td style="width:30%;">
+                            <img src="img/top-secret.jpeg" width="100%" />
+                        </td>
+                        
+                    </tr>
+                </mj-table>
+                <mj-divider border-color="#ffffff" border-width="1px" padding-bottom="0"/>     
+
+                <!--Town Hall-->
+                <mj-text padding-top="0">
+                    <h1 style="font-size: 50px;">In Other News <img src="img/newspaper.png" alt="" width="60px" style="vertical-align: middle;"></h1>
+                    <h2 style="margin-bottom: 0px;">Flow's first-ever Town Hall</h2>
+                </mj-text>
+                <mj-image src="img/town-hall.jpeg" alt="" />
+                <mj-text mj-class="content-text">
+                    <p>Dapper is built on Flow, the greenest and biggest blockchain for NFT's. It's been a wild year of growth across the entire Flow network, with 17.5 Million new accounts created. Plus, did you know that Flow is the all-time leader in NFT transactions across any blockchain, racking up over 25 Million NFT transactions?</p>
+
+                    <p>Check out end-of-year recap, plus get a preview of what's to come in 2023.</p>
+                </mj-text>
+                <mj-button mj-class="purple" align="left" border-radius="5px" href="https://u26162445.ct.sendgrid.net/ls/click?upn=zQb-2FQskn-2Fgm00H-2BhE-2Bykt1r9wXD7dBFr9NEf3JBwBIME-2BGt8jucgJFATBWNQ200kPFeOnxJHfCo7D9Shy65nHwqu3JmjRA2PTmQbyiiImODDJozoheQbOYXHe7f2e8ZNsKTU4-2F5NxEt3vyvRazXEdg-3D-3D38dJ_WO-2BwG46dtwW7qzM5RDMYlA-2BaYGVdPOR-2BhVdhikik0okn4WOQ5XnVJx4yELwcVJz2ZNG4xcDtboY-2B22v5ZPOQqHr6KAjE35CrTSaQ0ispZncow0BfTsbzwFF6NgCmzusAZ-2FsSUYpGitzoQCLFiLLyQ7MZYCbxDXXLKV5AHmDfx13Ks-2Fq-2FyjmRaOwPM2c9LOL-2BZ7ojWriv8ugB9RWIEg7dVPb0ZaGRDK2uN-2BOUn-2B6WCF6o7Z47HkDTK-2Fiaas7HFkqLeBwz00yNIYgMPsDM1OJFI7uH2VHJtDxJvqHZnMzsMeHSWXKg2HCB36fVr84Hm8VxQVJvf9g2ssNCvleLdFAeI-2BAsI0-2FNfTKmxFKNwHgsVxHMKyJkr273yycT5pJCkmQRwTmk6YVocRp-2F-2B4Tjhqkn-2FTo9njUwbA26TwNoqO2TQEtcfdAxyzAMMe7nduuIj-2FoxveLgt2j98zalkE3h67av0sEVpa2-2F3V6zJmfyojNF6-2FrY-2B2so0RGtpuQYRDogEclCnEbBM7G1qK5-2B-2FJ2GETUtZUIoqia-2Bq3O6uYixuvXwXkauymxbfHYEdh3GW9SJU3raWDx6Wfw0vNRnWw530PfOONe4PQbbBZa5D6RtOs2DlBcqKC7wbjoc7xgXBVTalgs4RzcEsocbEXl6-2F3sfckomGiOw9SC0aFu1Fa07-2Bzl6sbR-2F-2Fa-2BU-2FmWMLhZ8Ro0fIbr-2BmYp3v5ejzRddqIoG8nvLqQ-3D-3D" target="_blank">
+                    Get the Flow Town Hall recap
+                </mj-button>
+
+                <!--Flowty-->
+                <mj-text>
+                    <h2 style="margin-bottom: 0px;">Do more with your Moments</h2>
+                </mj-text>
+                <mj-image src="img/flowty.jpeg" alt="" />
+                <mj-text mj-class="content-text">
+                    <p>Flowty is a platform that offers peer-to-peer (P2P) NFT Rentals and P2P Collateralized NFT Loans exclusively on Flow. Flowty supports NBA Top Shot, NFL All Day, UFC Strike (soon) and several other Flow collections. Stay tuned for an announcement of a new core feature early in 2023!</p>
+                </mj-text>
+                <mj-button mj-class="purple" align="left" border-radius="5px" href="https://u26162445.ct.sendgrid.net/ls/click?upn=zQb-2FQskn-2Fgm00H-2BhE-2Bykt-2FMnHGG-2F8RsoEpIt0bwwIow-3DzNlQ_WO-2BwG46dtwW7qzM5RDMYlA-2BaYGVdPOR-2BhVdhikik0okn4WOQ5XnVJx4yELwcVJz2ZNG4xcDtboY-2B22v5ZPOQqHr6KAjE35CrTSaQ0ispZncow0BfTsbzwFF6NgCmzusAZ-2FsSUYpGitzoQCLFiLLyQ7MZYCbxDXXLKV5AHmDfx13Ks-2Fq-2FyjmRaOwPM2c9LOL-2BZ7ojWriv8ugB9RWIEg7dVPb0ZaGRDK2uN-2BOUn-2B6WCF6o7Z47HkDTK-2Fiaas7HFkqLeBwz00yNIYgMPsDM1OJFI7uH2VHJtDxJvqHZnMzsMeHSWXKg2HCB36fVr84Hm8VxQVJvf9g2ssNCvleLdFAeI-2BAsI0-2FNfTKmxFKNwHgsVxHMKyJkr273yycT5pJCkmQRwTmk6YVocRp-2F-2B4Tjhqkn-2FTo9njUwbA26TwNoqO2TQEtcfdAxyzAMMe7nduuIj-2FoxveLgt2j98zalkE3h67av0sEVpa2-2F3V6zJmfyojNF6-2FrY-2B2so0RGtpuQYRDogEclCnEbBM7G1qK5-2B-2FJ2GETUtZUIoqia-2Bq3O6uYixuvXwXkauymxbfHYEdh3GW9SJU3raQNYDbdrjWOXIx9tiOmJiSRBWJA6zzhwcc8GFiwLWZw-2BpLe-2FyxdS-2FBUNlWLh5cSvnGDpJlSiitXZQCVxbDtDrIvr50yuWnx0OiIygqK7-2B52koznlcHz9dMKgiIC1u-2FaKs5oPP5gLCr96w74LdWhpH5Q-3D-3D" target="_blank">
+                    Check out Flowty
+                </mj-button>
+                
+                <!--FOOTER-->
+                <mj-social icon-size="30px">
+                    <mj-social-element src="img/twitter.png" href="https://u26162445.ct.sendgrid.net/ls/click?upn=zQb-2FQskn-2Fgm00H-2BhE-2Bykt4uQk1ZUCPZikJMqVMD5n2UZ-2FP9BhAFsVu1l5Yp5NQnA_U9K_WO-2BwG46dtwW7qzM5RDMYlA-2BaYGVdPOR-2BhVdhikik0okn4WOQ5XnVJx4yELwcVJz2ZNG4xcDtboY-2B22v5ZPOQqHr6KAjE35CrTSaQ0ispZncow0BfTsbzwFF6NgCmzusAZ-2FsSUYpGitzoQCLFiLLyQ7MZYCbxDXXLKV5AHmDfx13Ks-2Fq-2FyjmRaOwPM2c9LOL-2BZ7ojWriv8ugB9RWIEg7dVPb0ZaGRDK2uN-2BOUn-2B6WCF6o7Z47HkDTK-2Fiaas7HFkqLeBwz00yNIYgMPsDM1OJFI7uH2VHJtDxJvqHZnMzsMeHSWXKg2HCB36fVr84Hm8VxQVJvf9g2ssNCvleLdFAeI-2BAsI0-2FNfTKmxFKNwHgsVxHMKyJkr273yycT5pJCkmQRwTmk6YVocRp-2F-2B4Tjhqkn-2FTo9njUwbA26TwNoqO2TQEtcfdAxyzAMMe7nduuIj-2FoxveLgt2j98zalkE3h67av0sEVpa2-2F3V6zJmfyojNF6-2FrY-2B2so0RGtpuQYRDogEclCnEbBM7G1qK5-2B-2FJ2GETUtZUIoqia-2Bq3O6uYixuvXwXkauymxbfHYEdh3GW9SJU3raIYXttuOgWcjp70Hd6paSZ5C0iAZE7xXEZO0S9KLjHcq1D89F4kf3jiRjfOl-2BqgiaQuuHTfLFxyavQeXqhQ-2FrCnZXbflCmsKjRiDNZh9UxaDqZXiYuxKQNMTmgfrheZk5ufNs0CA2Z-2FahJ34wqijoXA-3D-3D" target="_blank"></mj-social-element>
+                    <mj-social-element src="img/linkedin.png" href="https://u26162445.ct.sendgrid.net/ls/click?upn=zQb-2FQskn-2Fgm00H-2BhE-2Byktw6WQl9s4iZDsmakrE3XaZIF6CpZua-2F5b2-2FcgEfr0BmJ-2FAgA9NdXFZReTuX5PZln1Q-3D-3Daf5p_WO-2BwG46dtwW7qzM5RDMYlA-2BaYGVdPOR-2BhVdhikik0okn4WOQ5XnVJx4yELwcVJz2ZNG4xcDtboY-2B22v5ZPOQqHr6KAjE35CrTSaQ0ispZncow0BfTsbzwFF6NgCmzusAZ-2FsSUYpGitzoQCLFiLLyQ7MZYCbxDXXLKV5AHmDfx13Ks-2Fq-2FyjmRaOwPM2c9LOL-2BZ7ojWriv8ugB9RWIEg7dVPb0ZaGRDK2uN-2BOUn-2B6WCF6o7Z47HkDTK-2Fiaas7HFkqLeBwz00yNIYgMPsDM1OJFI7uH2VHJtDxJvqHZnMzsMeHSWXKg2HCB36fVr84Hm8VxQVJvf9g2ssNCvleLdFAeI-2BAsI0-2FNfTKmxFKNwHgsVxHMKyJkr273yycT5pJCkmQRwTmk6YVocRp-2F-2B4Tjhqkn-2FTo9njUwbA26TwNoqO2TQEtcfdAxyzAMMe7nduuIj-2FoxveLgt2j98zalkE3h67av0sEVpa2-2F3V6zJmfyojNF6-2FrY-2B2so0RGtpuQYRDogEclCnEbBM7G1qK5-2B-2FJ2GETUtZUIoqia-2Bq3O6uYixuvXwXkauymxbfHYEdh3GW9SJU3ra-2B1THmZQCeCg1Zzl20zLivwsZ0jX7acFp-2B-2FsQkk6Q8vBNeJNBTeKR6t-2Fv-2Ba7HhAGeT8vzyuTELuX7DlbcUmjujlsEukSh6S-2FY9NHrlee5EI7gfFhuT1RrlXBtSWvXKu530fZrqxkaut14qegEVYYfgQ-3D-3D" target="_blank"></mj-social-element>
+                    <mj-social-element src="img/instagram.png" href="https://u26162445.ct.sendgrid.net/ls/click?upn=zQb-2FQskn-2Fgm00H-2BhE-2Bykt3nVj6BlGCdlCU2gf5qXIn5LYgxXtJo9CiJTUyKIOb6aU7nA_WO-2BwG46dtwW7qzM5RDMYlA-2BaYGVdPOR-2BhVdhikik0okn4WOQ5XnVJx4yELwcVJz2ZNG4xcDtboY-2B22v5ZPOQqHr6KAjE35CrTSaQ0ispZncow0BfTsbzwFF6NgCmzusAZ-2FsSUYpGitzoQCLFiLLyQ7MZYCbxDXXLKV5AHmDfx13Ks-2Fq-2FyjmRaOwPM2c9LOL-2BZ7ojWriv8ugB9RWIEg7dVPb0ZaGRDK2uN-2BOUn-2B6WCF6o7Z47HkDTK-2Fiaas7HFkqLeBwz00yNIYgMPsDM1OJFI7uH2VHJtDxJvqHZnMzsMeHSWXKg2HCB36fVr84Hm8VxQVJvf9g2ssNCvleLdFAeI-2BAsI0-2FNfTKmxFKNwHgsVxHMKyJkr273yycT5pJCkmQRwTmk6YVocRp-2F-2B4Tjhqkn-2FTo9njUwbA26TwNoqO2TQEtcfdAxyzAMMe7nduuIj-2FoxveLgt2j98zalkE3h67av0sEVpa2-2F3V6zJmfyojNF6-2FrY-2B2so0RGtpuQYRDogEclCnEbBM7G1qK5-2B-2FJ2GETUtZUIoqia-2Bq3O6uYixuvXwXkauymxbfHYEdh3GW9SJU3rakJ6lP-2B4iJjjargXVVgCArOjZT1Qxp3C-2BnmPNN8tHP-2FVxdDw9sTQGHkZ6tvnm6v9OuD-2BRjcW6yuOh7bw6nJa7K-2FdtDRS3TQ7JixkCXXK6C1ZOv2pNpP-2FH0SdbNGgokR7gPWYhhmREHq9PVyOvuZyevg-3D-3D" target="_blank"></mj-social-element>
+                    <mj-social-element src="img/link.png" href="http://www.meetdapper.com/?utm_medium=email&utm_source=leanplum&utm_content=footer" target="_blank"></mj-social-element>
+                </mj-social>
+                <mj-text align="center">
+                    <p><em>Dapper Labs: The serious business of fun and games on the blockchain.</em></p>
+                    <p>Dapper Labs Inc, 600-565 Great Northern Way, Vancouver, BC V5T 0H8, Canada</p>
+                </mj-text>
+                <mj-text align="center">
+                    <a href="https://u26162445.ct.sendgrid.net/ls/click?upn=zQb-2FQskn-2Fgm00H-2BhE-2Bykt3iOMCZpDN3dSYnYO4XCGl4EeDBOg55o-2FTmgdozgbMZt5xuunan8cTyuQJJWaOV2lrEEd7iiA43IEGdIC17y44dJ9FrD-2FpSKuSTuHralqx-2F2eXmfMrK2eubimsYcQp-2BdHS604J2vaUZNFU-2Bjy-2B7o-2Bl0-2BNstgS9kZJOc9QlXmYQCHiIl9VAwjeMTWBUxZsjGp3IA-2FsNuwF9gvOnLf4W-2Bq9lVoE-2BRi19NiZU7yoYnt02XX6vjTZ4VV-2Fse2hvZEsXo1-2Bj2FCLdItqFGm-2Fo-2FaY3-2BRpe9Xm7-2B-2BmzCB9R62apYmLjDrmDaKfXk74QOpzxkT7AJ9Xnoeat0DxsKCeXW5WwjzZyuXGtpT2P8n0fbXfmn-2F1-2FBzZNmbqcX-2BYBB714eQ24Hab-2F63LnrNJc9-2FZBTw38qaC8-3DkTA-_WO-2BwG46dtwW7qzM5RDMYlA-2BaYGVdPOR-2BhVdhikik0okn4WOQ5XnVJx4yELwcVJz2ZNG4xcDtboY-2B22v5ZPOQqHr6KAjE35CrTSaQ0ispZncow0BfTsbzwFF6NgCmzusAZ-2FsSUYpGitzoQCLFiLLyQ7MZYCbxDXXLKV5AHmDfx13Ks-2Fq-2FyjmRaOwPM2c9LOL-2BZ7ojWriv8ugB9RWIEg7dVPb0ZaGRDK2uN-2BOUn-2B6WCF6o7Z47HkDTK-2Fiaas7HFkqLeBwz00yNIYgMPsDM1OJFI7uH2VHJtDxJvqHZnMzsMeHSWXKg2HCB36fVr84Hm8VxQVJvf9g2ssNCvleLdFAeI-2BAsI0-2FNfTKmxFKNwHgsVxHMKyJkr273yycT5pJCkmQRwTmk6YVocRp-2F-2B4Tjhqkn-2FTo9njUwbA26TwNoqO2TQEtcfdAxyzAMMe7nduuIj-2FoxveLgt2j98zalkE3h67av0sEVpa2-2F3V6zJmfyojNF6-2FrY-2B2so0RGtpuQYRDogEclCnEbBM7G1qK5-2B-2FJ2GETUtZUIoqia-2Bq3O6uYixuvXwXkauymxbfHYEdh3GW9SJU3raQGxOK2SA00Opm93oyMSCh8zrhs1g1aQFLgyhc0DT8dfjRKDg8IsGI6mC2-2BpN0yjwo2az1RYRjpWbd-2FznFotReZlTGVSviBnIsyVrQe7HxONRWqaoNW5fpc5J2xyKFM0jrxBFsDoyLvwjh8vHV9Cf9A-3D-3D" target="blank" style="color: #0068a5;"><p>Manage preferences</p></a>
+                </mj-text>
+            </mj-column>
+        </mj-section>
+    </mj-body>
+</mjml>
